@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Bubble sort's best case is when it's sorted and worst case is when it's reversed, keeping in mind that the best case has lower complexity than worst case. So I found the program that results in lower runtime when it's sorted and greater runtime when it's reversed, and I assigned that program to Bubble sort.
+
+sort2 uses: Merge Sort
+
+How do you know?: Merge sort has an equal complexity in both worst case and best case, so does Selection sort, but Merge sort's complexity should be lower than Selection sort. I found cases that are nearly equal when they are sorted and reversed, then I assigned the smaller one to Merge sort and the greater one to Selection sort.
+
+sort3 uses: Selection sort
+
+How do you know?: Same logic that I explained in Merge sort section.
